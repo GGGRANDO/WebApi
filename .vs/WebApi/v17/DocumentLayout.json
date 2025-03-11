@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\webapi\\dto\\author\\authoreditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\author\\authoreditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-09T20:52:41.355Z",
+              "Title": "AuthorEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Dto\\Author\\AuthorEditDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\Author\\AuthorEditDto.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Dto\\Author\\AuthorEditDto.cs",
+              "RelativeToolTip": "WebApi\\Dto\\Author\\AuthorEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T00:08:30.149Z",
               "EditorCaption": ""
             }
           ]

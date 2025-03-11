@@ -1,6 +1,7 @@
 ﻿using Azure;
 using Microsoft.EntityFrameworkCore;
 using WebApi.Data;
+using WebApi.Dto.Author;
 using WebApi.Models;
 
 namespace WebApi.Services.Authors
@@ -113,6 +114,42 @@ namespace WebApi.Services.Authors
         }
 
         public Task<ResponseModel<AuthorModel>> SearchAuthorForId(int idBook)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<ResponseModel<List<AuthorModel>>> CreateAuthor(AuthorEditDto authorCreateDto)
+        {
+            ResponseModel<List<AuthorModel>> response = new ResponseModel<List<AuthorModel>>();
+
+            try
+            {
+                var author = new AuthorModel()
+                {
+                    Name = authorCreateDto.Name,
+                    LastName = authorCreateDto.LastName
+                };
+                _context.Add(author);
+                await _context.SaveChangesAsync();
+
+                response.Data = await _context.Authors.ToListAsync();
+                response.Message = "Author create with successfully";
+                return response;
+            }
+            catch (Exception ex)
+            {
+                response.Message = ex.Message;
+                response.Status = false;
+                return response;
+            }
+        }
+
+        public Task<ResponseModel<List<AuthorModel>>> EditAuthor(AuthorEditDto authorCreateDto)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<ResponseModel<List<AuthorModel>>> DeleteAuthor(AuthorEditDto authorCreateDto)
         {
             throw new NotImplementedException();
         }

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\webapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\webapi\\services\\authors\\iauthorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\authors\\iauthorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\webapi\\services\\authors\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\authors\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\webapi\\dto\\author\\authorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\author\\authorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\webapi\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71626D09-FD40-4529-82A8-62E3D091D25B}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:44:06.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthorInterface.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Services\\Authors\\IAuthorInterface.cs",
+              "RelativeDocumentMoniker": "WebApi\\Services\\Authors\\IAuthorInterface.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Services\\Authors\\IAuthorInterface.cs",
+              "RelativeToolTip": "WebApi\\Services\\Authors\\IAuthorInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:31:17.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Services\\Authors\\AuthorService.cs",
+              "RelativeDocumentMoniker": "WebApi\\Services\\Authors\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Services\\Authors\\AuthorService.cs",
+              "RelativeToolTip": "WebApi\\Services\\Authors\\AuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:00:12.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Dto\\Author\\AuthorCreateDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\Author\\AuthorCreateDto.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Dto\\Author\\AuthorCreateDto.cs",
+              "RelativeToolTip": "WebApi\\Dto\\Author\\AuthorCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:33:35.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorModel.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Models\\AuthorModel.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\AuthorModel.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\Models\\AuthorModel.cs",
+              "RelativeToolTip": "WebApi\\Models\\AuthorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:33:46.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T00:02:48.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

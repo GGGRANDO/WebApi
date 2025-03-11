@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using WebApi.Dto.Author;
 using WebApi.Models;
 using WebApi.Services.Authors;
 
@@ -22,10 +23,10 @@ namespace WebApi.Controllers
             return Ok(authors);
         }
 
-        [HttpGet("SearchAuthor/{idAuthor}")]
-        public async Task<ActionResult<ResponseModel<AuthorModel>>> SearchAuthorId(int idAuthor)
+        [HttpGet("SearchAuthorForId/{idAuthor}")]
+        public async Task<ActionResult<ResponseModel<AuthorModel>>> SearchAuthorForId(int idAuthor)
         {
-            var author = await _authorInterface.SearchAuthorId(idAuthor);
+            var author = await _authorInterface.SearchAuthorForId(idAuthor);
             return Ok(author);
         }
 
@@ -34,6 +35,13 @@ namespace WebApi.Controllers
         {
             var author = await _authorInterface.SearchAuthorForBookId(idBook);
             return Ok(author);
+        }        
+        
+        [HttpPost("CreateAuthor")]
+        public async Task<ActionResult<ResponseModel<AuthorModel>>> CreateAuthor(AuthorEditDto authorCreateDto)
+        {
+            var authors = await _authorInterface.CreateAuthor(authorCreateDto);
+            return Ok(authors);
         }
 
     }
