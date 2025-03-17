@@ -335,3 +335,4 @@ C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\obj\Debug\net8.0\refint\
 C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

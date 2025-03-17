@@ -149,7 +149,7 @@ namespace WebApi.Services.Authors
             throw new NotImplementedException();
         }
 
-        public Task<ResponseModel<List<AuthorModel>>> DeleteAuthor(AuthorEditDto authorCreateDto)
+        public Task<ResponseModel<List<AuthorModel>>> DeleteAuthor(int idAuthor)
         {
             throw new NotImplementedException();
         }

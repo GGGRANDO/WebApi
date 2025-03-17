@@ -1,32 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\177641\\Desktop\\WebApi\\Tests\\Tests.csproj": {}
+    "C:\\Users\\gugra\\OneDrive\\Área de Trabalho\\WebApi\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\177641\\Desktop\\WebApi\\Tests\\Tests.csproj": {
+    "C:\\Users\\gugra\\OneDrive\\Área de Trabalho\\WebApi\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\177641\\Desktop\\WebApi\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\gugra\\OneDrive\\Área de Trabalho\\WebApi\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\177641\\Desktop\\WebApi\\Tests\\Tests.csproj",
-        "packagesPath": "C:\\Users\\177641\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\177641\\Desktop\\WebApi\\Tests\\obj\\",
+        "projectPath": "C:\\Users\\gugra\\OneDrive\\Área de Trabalho\\WebApi\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\gugra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gugra\\OneDrive\\Área de Trabalho\\WebApi\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\177641\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gugra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\177641\\Desktop\\WebApi\\WebApi\\WebApi.csproj": {
-                "projectPath": "C:\\Users\\177641\\Desktop\\WebApi\\WebApi\\WebApi.csproj"
+              "C:\\Users\\gugra\\OneDrive\\Área de Trabalho\\WebApi\\WebApi\\WebApi.csproj": {
+                "projectPath": "C:\\Users\\gugra\\OneDrive\\Área de Trabalho\\WebApi\\WebApi\\WebApi.csproj"
               }
             }
           }
@@ -35,67 +39,55 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[16.5.0, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[1.2.0, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.4.0, )"
-            },
-            "xunit.runner.visualstudio": {
-              "target": "Package",
-              "version": "[2.4.0, )"
-            }
-          },
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\177641\\Desktop\\WebApi\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\gugra\\OneDrive\\Área de Trabalho\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\177641\\Desktop\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\gugra\\OneDrive\\Área de Trabalho\\WebApi\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\177641\\Desktop\\WebApi\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\177641\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\177641\\Desktop\\WebApi\\WebApi\\obj\\",
+        "projectPath": "C:\\Users\\gugra\\OneDrive\\Área de Trabalho\\WebApi\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\gugra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gugra\\OneDrive\\Área de Trabalho\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\177641\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gugra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -103,10 +95,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -133,12 +131,26 @@
               "version": "[6.4.0, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win7-x86": {
-          "#import": []
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
