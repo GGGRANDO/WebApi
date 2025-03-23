@@ -336,3 +336,9 @@ C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\obj\Debug\net8.0\WebApi.
 C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
 C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\bin\Debug\net8.0\Moq.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\bin\Debug\net8.0\OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\bin\Debug\net8.0\WebDriver.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\WebApi\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll

@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\testproject1\\integrationtests\\integrationauthorendpointtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\integrationtests\\integrationauthorendpointtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\testproject1\\integrationtests\\integrationconnectionintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\integrationtests\\integrationconnectionintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\testproject1\\integrationtests\\integrationconnectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\integrationtests\\integrationconnectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\testproject1\\integrationtests\\integrationcreateauthortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\integrationtests\\integrationcreateauthortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\testproject1\\integrationtests\\integrationlistauthortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\integrationtests\\integrationlistauthortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\testproject1\\interfacetests\\interfacelistauthorstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\interfacetests\\interfacelistauthorstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\testproject1\\interfacetests\\interfaceopentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\interfacetests\\interfaceopentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\testproject1\\interfacetests\\interfaceresponsivenesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\interfacetests\\interfaceresponsivenesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\testproject1\\unittests\\unitauthorconsulttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittests\\unitauthorconsulttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\testproject1\\unittests\\unitauthortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittests\\unitauthortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|c:\\users\\gugra\\onedrive\\\u00E1rea de trabalho\\webapi\\testproject1\\unittests\\unitbooktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77465ED8-D615-4B3C-BDAF-7D3BA154194E}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittests\\unitbooktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IntegrationAuthorEndpointTest.cs",
-              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\IntegrationTests\\IntegrationAuthorEndpointTest.cs",
-              "RelativeDocumentMoniker": "TestProject1\\IntegrationTests\\IntegrationAuthorEndpointTest.cs",
-              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\IntegrationTests\\IntegrationAuthorEndpointTest.cs",
-              "RelativeToolTip": "TestProject1\\IntegrationTests\\IntegrationAuthorEndpointTest.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAD4vzAAAAATAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "UnitAuthorConsultTest.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\UnitTests\\UnitAuthorConsultTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTests\\UnitAuthorConsultTest.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\UnitTests\\UnitAuthorConsultTest.cs",
+              "RelativeToolTip": "TestProject1\\UnitTests\\UnitAuthorConsultTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T19:51:37.571Z",
+              "WhenOpened": "2025-03-23T20:15:59.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterfaceResponsivenessTests.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\InterfaceTests\\InterfaceResponsivenessTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\InterfaceTests\\InterfaceResponsivenessTests.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\InterfaceTests\\InterfaceResponsivenessTests.cs",
+              "RelativeToolTip": "TestProject1\\InterfaceTests\\InterfaceResponsivenessTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:50:53.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterfaceOpenTest.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\InterfaceTests\\InterfaceOpenTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\InterfaceTests\\InterfaceOpenTest.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\InterfaceTests\\InterfaceOpenTest.cs",
+              "RelativeToolTip": "TestProject1\\InterfaceTests\\InterfaceOpenTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:28:04.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterfaceListAuthorsTest.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\InterfaceTests\\InterfaceListAuthorsTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\InterfaceTests\\InterfaceListAuthorsTest.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\InterfaceTests\\InterfaceListAuthorsTest.cs",
+              "RelativeToolTip": "TestProject1\\InterfaceTests\\InterfaceListAuthorsTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:57:31.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntegrationListAuthorTest.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\IntegrationTests\\IntegrationListAuthorTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\IntegrationTests\\IntegrationListAuthorTest.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\IntegrationTests\\IntegrationListAuthorTest.cs",
+              "RelativeToolTip": "TestProject1\\IntegrationTests\\IntegrationListAuthorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:11:26.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IntegrationConnectionTest.cs",
-              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\IntegrationTests\\IntegrationConnectionTest.cs",
-              "RelativeDocumentMoniker": "TestProject1\\IntegrationTests\\IntegrationConnectionTest.cs",
-              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\IntegrationTests\\IntegrationConnectionTest.cs",
-              "RelativeToolTip": "TestProject1\\IntegrationTests\\IntegrationConnectionTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Title": "IntegrationCreateAuthorTest.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\IntegrationTests\\IntegrationCreateAuthorTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\IntegrationTests\\IntegrationCreateAuthorTest.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\IntegrationTests\\IntegrationCreateAuthorTest.cs",
+              "RelativeToolTip": "TestProject1\\IntegrationTests\\IntegrationCreateAuthorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T19:18:33.13Z",
+              "WhenOpened": "2025-03-23T20:15:46.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegrationConnectionIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\IntegrationTests\\IntegrationConnectionIntegrationTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\IntegrationTests\\IntegrationConnectionIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\IntegrationTests\\IntegrationConnectionIntegrationTest.cs",
+              "RelativeToolTip": "TestProject1\\IntegrationTests\\IntegrationConnectionIntegrationTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:15:47.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitAuthorTest.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\UnitTests\\UnitAuthorTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTests\\UnitAuthorTest.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\UnitTests\\UnitAuthorTest.cs",
+              "RelativeToolTip": "TestProject1\\UnitTests\\UnitAuthorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:15:57.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitBookTest.cs",
+              "DocumentMoniker": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\UnitTests\\UnitBookTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTests\\UnitBookTest.cs",
+              "ToolTip": "C:\\Users\\gugra\\OneDrive\\\u00C1rea de Trabalho\\WebApi\\TestProject1\\UnitTests\\UnitBookTest.cs",
+              "RelativeToolTip": "TestProject1\\UnitTests\\UnitBookTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:16:12.295Z",
               "EditorCaption": ""
             }
           ]

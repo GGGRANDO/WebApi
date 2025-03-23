@@ -166,3 +166,8 @@ C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\TestProject1\obj\Debug\net8.0\T
 C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
 C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\TestProject1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\TestProject1\bin\Debug\net8.0\RestSharp.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\TestProject1\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\TestProject1\bin\Debug\net8.0\Moq.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\TestProject1\bin\Debug\net8.0\OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\TestProject1\bin\Debug\net8.0\WebDriver.dll
+C:\Users\gugra\OneDrive\Área de Trabalho\WebApi\TestProject1\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
